@@ -1,0 +1,73 @@
+.swipe .van-swipe__indicator {
+  width: 10px;
+  height: 10px;
+}
+.cardlist{
+    & .van-list__finished-text{
+        margin: 20px 0;
+        width: 100%;
+    }
+  & .van-list__loading{
+        width: 100%;
+    }
+}
+.singstyle{
+  .van-tabs--line{
+    padding-top: 80px;
+  }
+  .van-tabs--line .van-tabs__wrap{
+      border-bottom:1px solid #9b9b9b;
+      height: 80px;
+      position: fixed;
+      top: 90px;
+      left: 0;
+      background-color: #ffffff;
+  }
+
+  .van-tabs--line .van-tab{
+    line-height: 80px;
+    font-size: 28px;
+    color:#333333;
+  }
+}
+
+.login{
+  .van-cell{
+    height: 90px;
+    line-height: 90px;
+    padding: 0 15px;
+    border-bottom:1px solid #f2f3f4;
+  }
+  .van-field__label{
+    max-width: 1.2rem;
+    height: 100%;
+    span{
+      font-size: 32px;
+      display: inline-block;
+    }
+  }
+  .van-cell--required::before {
+    top:0;
+  } 
+  .van-field__body{
+    height: 100%;
+    .van-field__control{
+      height: 100%;
+      background:none; 
+      outline: none;
+      border:none;
+      font-size: 32px;
+      color:#333333;
+      line-height: 90px;
+      
+    }
+  }
+  .van-button--large {
+    width: 100%;
+    height: 90px;
+    line-height: 90px;
+    background-color: #C20C0C;
+    color: #ffffff;
+}
+}
+      
