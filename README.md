@@ -1,5 +1,11 @@
 # client
 
+:musical_keyboard: 基于 Vue(2.5) + vuex + vue-router + vue-axios +better-scroll + Scss + ES6 等开发一款移动端音乐 WebApp，UI 界面参考了安卓版的网易云音乐、flex 布局适配常见移动端。
+
+:yum: 项目演示地址：[移动端音乐 WebApp](https://music.kmfree.top:8082)
+
+- 推荐使用手机预览，电脑在 Chrome 调试模式下食用效果更佳，开启调试模式的手机模式后，如果不能滚动，刷新一下页面即可
+
 ## Build Setup
 
 ``` bash
