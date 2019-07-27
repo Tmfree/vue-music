@@ -3,7 +3,6 @@ node_modules
 /dist
 /src/http/
 /tests/e2e/screenshots/
-/yarn.lock
 
 # local env files
 .env.local
