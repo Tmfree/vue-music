@@ -26,7 +26,14 @@ node app.js
 ```
 
 ## 预览
-![推荐](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_2249.PNG)
+<ul style="display:flex; flex-wrap:wrap; list-style:none">
+ <li style="width:33.3%; margin-top:20px;">
+    <img src="https://github.com/Tmfree/vue-music/blob/master/webapp/music01.PNG" alt="正在加载" width="300">
+ </li> 
+ <li style="width:33.3%; margin-top:20px;">
+    <img src="https://github.com/Tmfree/vue-music/blob/master/webapp/music02.PNG" alt="正在加载" width="300">
+ </li> 
+</ul>
 
 ## 开发目的
 
