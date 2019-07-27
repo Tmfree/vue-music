@@ -11,7 +11,14 @@ npm run dev
 
 # 打包发布，生成的文件在dist文件夹中
 npm run build
+
+#网易云API接口文件
+cd NeteaseCloudMusicApi
+
+#运行
+node app.js
 ```
+
 ## 预览
 ![推荐](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_2249.PNG)
 
@@ -43,3 +50,7 @@ npm run build
 * `eslint`：代码风格检查工具，帮助我们规范代码书写（一定要养成良好的代码规范）
 * `iconfont` ：阿里巴巴图标库，谁用谁知道
 * `fastclick` ：消除 click 移动游览器 300ms 的延
+
+## 感谢
+
+- 感谢 [Binaryify](https://github.com/Binaryify) 对接口文档 [NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi) 的不断维护与更新。
