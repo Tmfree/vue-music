@@ -24,7 +24,7 @@ cd NeteaseCloudMusicApi
 #运行
 node app.js \\默认3000端口
 
-#修改 /src/http/bascUrl.js文件，在'development'环境下，为本机的ip地址
+**修改 /src/http/bascUrl.js文件，在'development'环境下，为本机的ip地址**
 
 ```
 
