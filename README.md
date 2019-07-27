@@ -1,39 +1,10 @@
 # client
 
-## Project setup
-```
-yarn install
-```
+# 下载或克隆下来，然后安装依赖
+npm install
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+# 开发预览
+npm run dev
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your end-to-end tests
-```
-yarn run test:e2e
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 打包发布，生成的文件在dist文件夹中
+npm run build
