@@ -26,7 +26,7 @@ node app.js
 ```
 
 ## 预览
-![推荐](./webapp/music01.png)
+![推荐](https://github.com/Tmfree/vue-music/blob/master/webapp/music01.png)
 
 ## 开发目的
 
