@@ -29,6 +29,8 @@ node app.js
 
 ![推荐、排行、歌手](https://github.com/Tmfree/vue-music/blob/master/webapp/music01.PNG)
 
+![推荐、排行、歌手](https://github.com/Tmfree/vue-music/blob/master/webapp/music02.PNG)
+
 ## 开发目的
 
 通过学习开发一个 Vue 全家桶项目，让自己更熟练的使用 Vue 全家桶、模块化开发、ES6 等等知识，提高自己的技术能力。
