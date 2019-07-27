@@ -6,10 +6,6 @@
 
 - 推荐使用手机预览，电脑在 Chrome 调试模式下浏览效果更佳，开启调试模式的手机模式后，如果不能滚动，刷新一下页面即可
 
-<ul>
-  <li>1</li>
- </ul>
-
 ## Build Setup
 
 ``` bash
@@ -30,7 +26,11 @@ node app.js
 ```
 
 ## 预览
-![推荐](https://github.com/Tmfree/vue-music/blob/master/webapp/music01.PNG)
+<ul style="display:flex; flex-wrap:wrap; list-style:none">
+ <li style="width:33.3%; margin-top:20px;">
+    <img src="https://github.com/Tmfree/vue-music/blob/master/webapp/music01.PNG" alt="正在加载" width="300">
+ </li> 
+</ul>
 
 ## 开发目的
 
