@@ -26,7 +26,7 @@ node app.js
 ```
 
 ## 预览
-![推荐](https://github.com/Sioxas/GitImage/raw/master/screenshot/IMG_2249.PNG)
+![推荐](./webapp/music01.png)
 
 ## 开发目的
 
