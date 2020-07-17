@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "better-scroll": "^1.14.1",
-    "lodash": "4.17.13",
+    "lodash": "4.17.19",
     "lyric-parser": "^1.0.1",
     "register-service-worker": "^1.5.2",
     "vant": "1.6.5",
